@@ -2,7 +2,7 @@
 """ Get the metrics on the test data
     using the pre-trained model.
 
-Copyright (C) 2019 Abraham Smith
+Copyright (C) 2019 Abraham Smith and contributors
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
